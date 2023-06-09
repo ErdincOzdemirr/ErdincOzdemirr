@@ -26,7 +26,6 @@
 <br>
 
 
-
 - 🌱 I’m currently learning Software Development and other programming languages
 
 - 📫 How to reach me erdincozdemir1812@gmail.com
