@@ -14,7 +14,7 @@
 <br>
 
 <br>
-<p><img align="right" style="height:250px;" src="https://github.com/ErdincOzdemirr/MyGitHubProfile/assets/127399545/8832c380-b0fe-479b-acdb-c4159a14c0cc" alt="" /></p>
+<p><img align="right" style="height:250px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" /></p>
 <br>
 
 - 🌱 I’m currently learning Software Development and other programming languages
@@ -24,6 +24,7 @@
 - ⚡ Fun Fact : Iron Maiden 🎵 Fear Of The Dark
 
 <br>
+
 
 <br>
 <img align="right" height="150" src="https://i.gifer.com/7SvE.gif"/>
