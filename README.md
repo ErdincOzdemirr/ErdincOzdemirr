@@ -25,8 +25,6 @@
 <p><img align="right" style="height:200px; margin-bottom:20px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" /></p>
 <br>
 
-
-
 - 🌱 I’m currently learning Software Development and other programming languages
 
 - 📫 How to reach me erdincozdemir1812@gmail.com
