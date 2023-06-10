@@ -29,13 +29,16 @@
  ⚡ Fav.Music : Iron Maiden 🎵 Fear Of The Dark
 <br>
 
-<div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=ErdincOzdemirr&theme=radical&hide_border=false)<br/>
-</div>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
-
+<div align="center">
+https://github-readme-streak-stats.herokuapp.com/?user=ErdincOzdemirr&theme=radical&hide_border=false <br/>
+</div>  
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 <h3 align="center"> My Skill Set</h3>  
 <table><tr><td valign="top" width="33%">
 
