@@ -32,10 +32,12 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
+  
 <div align="center">
-https://github-readme-streak-stats.herokuapp.com/?user=ErdincOzdemirr&theme=radical&hide_border=false <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdincOzdemirr&theme=radical&hide_border=false" alt="">
 </div>  
 <br>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
@@ -102,7 +104,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=ErdincOzdemirr&theme=radi
   
 <h3 align="center"> 📊 Contribution Stats </h3>  
 
-<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ErdincOzdemirr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Erdinc's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ErdincOzdemirr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
 
 <br>
