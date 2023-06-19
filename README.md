@@ -11,13 +11,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErdincOzdemirr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErdincOzdemirr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p><img align="right" style="height:125px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" /></p>
 
