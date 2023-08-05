@@ -1,10 +1,10 @@
 
-# <p align="center">Hi! 👋 I'm Erdinç. </p>
+# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. </p>
 
 <table border="0" align="center">
   <tr border="0">
     <td align="left">
-💻    I'm a FullStack/Software Developer <br>
+💻    FullStack/ Java Software Developer <br>
       <br>
 ⚡️     Electrical - Electronics Engineer   <br>
  <br>
