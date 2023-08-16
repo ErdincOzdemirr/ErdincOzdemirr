@@ -1,5 +1,5 @@
 
-# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. [![](https://visitcount.itsvg.in/api?id=ErdincOzdemirr&icon=8&color=0)](https://visitcount.itsvg.in) </p>
+# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. <img src="https://profile-counter.glitch.me/ErdincOzdemirr/count.svg?" </p>
 
 <table border="0" align="center">
   <tr border="0">
