@@ -1,5 +1,5 @@
 
-# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. <img src="https://profile-counter.glitch.me/ErdincOzdemirr/count.svg?" style="width: 50px;"  /> </p>
+# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. <img src="https://profile-counter.glitch.me/ErdincOzdemirr/count.svg?" style="width: 150px;"  /> </p>
 
 <table border="0" align="center">
   <tr border="0">
