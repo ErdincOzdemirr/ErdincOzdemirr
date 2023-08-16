@@ -1,5 +1,5 @@
 
-# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. <img src="https://komarev.com/ghpvc/?username=ErdincOzdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="ErdincOzdemirr" </p>
+# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. <img src="https://profile-counter.glitch.me/ErdincOzdemirr/count.svg?"/> </p>
 
 <table border="0" align="center">
   <tr border="0">
