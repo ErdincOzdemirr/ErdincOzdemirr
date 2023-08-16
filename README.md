@@ -1,5 +1,5 @@
 
-# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. </p>
+# <p align="center">🌍 Hello World 👋😃 I'm Erdinç. <img src="https://komarev.com/ghpvc/?username=ErdincOzdemirr&label=Profile%20views&color=0e75b6&style=flat" alt="ErdincOzdemirr" </p>
 
 <table border="0" align="center">
   <tr border="0">
