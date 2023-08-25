@@ -4,7 +4,7 @@
 <table border="0" align="center">
   <tr border="0">
     <td align="left">
-💻    FullStack/ Java Software Developer <br>
+💻    Frontend Web Developer <br>
       <br>
 ⚡️     Electrical - Electronics Engineer   <br>
  <br>
