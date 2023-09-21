@@ -12,7 +12,7 @@
  <br>
 📫    erdincozdemir1812@gmail.com<br>
 <br>
-👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule a meeting!</a>  <br>
+👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
    </td>
   <td style="display: block; margin: 0 auto;
     padding: 0;">
