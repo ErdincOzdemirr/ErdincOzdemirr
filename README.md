@@ -27,7 +27,7 @@
 <table align="center">
 <tr>
 <td align="top" width="50%">
-<h3 align="center">Frontend</h3>  
+<h3 align="center">FrontEnd</h3>  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
@@ -41,7 +41,7 @@
 </div>
 </td>
 <td valign="top" width="50%">
-<h3 align="center">Backend</h3>   
+<h3 align="center">BackEnd</h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
 <img style="margin: 10px" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="50" /> 
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td valign="top" width="50%">
-<h3 align="center">Database</h3>   
+<h3 align="center">DataBase</h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
