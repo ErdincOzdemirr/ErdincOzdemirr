@@ -59,7 +59,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
 </div>
 </td>
