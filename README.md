@@ -42,10 +42,7 @@
 <td valign="top" width="25%">
 <h4 align="center">Backend</h4>   
 <div align="center">  
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />    
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" />   
 </div>
 </td>
 <td valign="top" width="25%">
@@ -53,9 +50,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />    
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
 </div>
 </td>
 <td valign="top" width="25%">
@@ -63,7 +59,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
 </div>
 </td>
 </tr>
