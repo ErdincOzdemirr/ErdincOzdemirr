@@ -42,7 +42,11 @@
 <td valign="top" width="25%">
 <h4 align="center">Backend</h4>   
 <div align="center">  
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" />   
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /> 
+
 </div>
 </td>
 <td valign="top" width="25%">
@@ -57,10 +61,10 @@
 <td valign="top" width="25%">
 <h4 align="center">DevOps</h4>  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
 <img style="margin: 10px" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
 </div>
 </td>
 </tr>
