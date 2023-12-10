@@ -4,7 +4,7 @@
 <table border="0" align="center">
   <tr border="0">
     <td align="left">
-💻    Frontend Developer <br>
+💻    Software Developer <br>
       <br>
 ⚡️     Electrical - Electronics Engineer   <br>
  <br>
@@ -25,10 +25,9 @@
 <br>
   <h3 align="center"> My Skill Set</h3>  
 <table align="center">
-  <tr>
-    <td align="top" width="25%">
-
-  <h4 align="center">Frontend</h4>  
+<tr>
+<td align="top" width="50%">
+<h4 align="center">Frontend</h4>  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
@@ -39,11 +38,9 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /> 
 <img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" /> 
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
-
-
 </div>
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 <h4 align="center">Backend</h4>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
@@ -54,7 +51,9 @@
 <img style="margin: 10px" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" height="50" /> 
 </div>
 </td>
-<td valign="top" width="25%">
+</tr>
+<tr>
+<td valign="top" width="50%">
 <h4 align="center">Database</h4>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
@@ -63,7 +62,7 @@
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
 </div>
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 <h4 align="center">DevOps</h4>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
