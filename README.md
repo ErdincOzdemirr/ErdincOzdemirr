@@ -43,12 +43,12 @@
 <td valign="top" width="50%">
 <h3 align="center">BackEnd</h3>   
 <div align="center">  
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" /> 
-<img style="margin: 10px" src="https://i.hizliresim.com/s0ko3z2.png" alt="Hibernate" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="MicroService" height="50" /> 
-<img style="margin: 10px" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="35" /> 
+<img style="margin: 10px" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="35" /> 
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="35" /> 
+<img style="margin: 10px" src="https://i.hizliresim.com/s0ko3z2.png" alt="Hibernate" height="35" /> 
+<img style="margin: 10px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="MicroService" height="35" /> 
+<img style="margin: 10px" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" height="35" /> 
 </div>
 </td>
 </tr>
