@@ -24,55 +24,56 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
   <h2 align="center"> My Skill Set</h2>  
-<table align="center" style="width: 100%;">
-  <tr>
-    <td align="center" width="25%">
-      <h3>FrontEnd</h3>  
-      <div>
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" />
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <h3>BackEnd</h3>  
-      <div>
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://i.hizliresim.com/s0ko3z2.png" alt="Hibernate" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="MicroService" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <h3>DataBase</h3>   
-      <div>
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" />  
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" />
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <h3>DevOps</h3>  
-      <div>
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
-        <img style="margin: 10px; width: 50px; height: 50px;" src="https://i.hizliresim.com/c8bwyis.png" alt="CI/CD" />
-      </div>
-    </td>
-  </tr>
-</table>
+<table align="center">
+<tr>
+<td align="top" width="50%">
+<h3 align="center">FrontEnd</h3>  
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />      
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" /> 
+<img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
+</div>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">BackEnd</h3>   
+<div align="center">  
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" /> 
+<img style="margin: 10px" src="https://i.hizliresim.com/s0ko3z2.png" alt="Hibernate" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="MicroService" height="50" /> 
+<img style="margin: 10px" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" height="50" /> 
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3 align="center">DataBase</h3>   
+<div align="center">  
+<img style="margin: 10px" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
+</div>
+</td>
+<td valign="top" width="50%">
+<h3 align="center">DevOps</h3>  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
+<img style="margin: 10px" src="https://i.hizliresim.com/c8bwyis.png" alt="CI/CD" height="50" />
+</div>
+</td>
+</tr>
+</table>  
+
 
 <br>
 <p align="center">
