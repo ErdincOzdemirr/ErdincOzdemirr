@@ -24,6 +24,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
   <h2 align="center"> My Skill Set</h2>  
+<div align="center">
+  <h2>Tech Stack</h2>
+</div>
+
 <table align="center">
   <tr>
     <td align="center" width="25%">
@@ -52,7 +56,7 @@
       </div>
     </td>
     <td align="center" width="25%">
-      <h3>DataBase</h3>   
+      <h3>Database</h3>   
       <div>  
         <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
         <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
@@ -71,6 +75,7 @@
     </td>
   </tr>
 </table>
+
 
 <br>
 <p align="center">
