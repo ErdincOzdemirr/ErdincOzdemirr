@@ -26,7 +26,7 @@
   <h2 align="center"> My Skill Set</h2>  
 <table align="center">
 <tr>
-<td align="top" style=" width="500 px"";>
+<td align="top" style=" width="200 px"";>
 <h3 align="center">FrontEnd</h3>  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
@@ -40,7 +40,7 @@
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
 </div>
 </td>
-<td valign="top" style=" width="500 px"";>
+<td valign="top" style=" width="200 px"";>
 <h3 align="center">BackEnd</h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" /> 
@@ -53,7 +53,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" style=" width="500 px"";>
+<td valign="top" style=" width="200 px"";>
 <h3 align="center">DataBase</h3>   
 <div align="center">  
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
@@ -62,7 +62,7 @@
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
 </div>
 </td>
-<td valign="top" style=" width="500 px"";>
+<td valign="top" style=" width="200 px"";>
 <h3 align="center">DevOps</h3>  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
