@@ -8,7 +8,7 @@
       <br>
 ⚡️     Electrical - Electronics Engineer   <br>
  <br>
-⚖️     Faculty of Law's Student  <br> 
+📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
  <br>
 📫    erdincozdemir1812@gmail.com<br>
 <br>
