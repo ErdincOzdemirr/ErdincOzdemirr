@@ -4,7 +4,7 @@
 <table border="0" align="center">
   <tr border="0">
     <td align="left">
-💻    Software Developer <br>
+💻    Java Backend Developer <br>
       <br>
 ⚡️     Electrical - Electronics Engineer   <br>
  <br>
