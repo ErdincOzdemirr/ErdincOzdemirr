@@ -10,7 +10,7 @@
  <br>
 📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
  <br>
-📫    erdincozdemir1812@gmail.com<a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
+📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
 <br>
 👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
    </td>
