@@ -6,7 +6,7 @@
     <td align="left">
 💻    Java Backend Developer <br>
       <br>
-⚡️     Electrical - Electronics Engineer   <br>
+⚡️     Software Engineer   <br>
  <br>
 📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
  <br>
