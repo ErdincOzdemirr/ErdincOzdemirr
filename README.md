@@ -59,6 +59,7 @@
 <img style="margin: 10px" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/ios-glyphs/30/bull.png" alt="SQL" height="50" />
 </div>
 </td>
 <td valign="top" width="50%">
