@@ -36,10 +36,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />      
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" /> 
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />      
+<img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /> 
 </div>
 </td>
 <td valign="top" width="50%">
