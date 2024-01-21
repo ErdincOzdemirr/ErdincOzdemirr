@@ -64,8 +64,8 @@
 <td valign="top" width="50%">
 <h3 align="center">DevOps</h3>  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /> 
 <img style="margin: 10px" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://i.hizliresim.com/c8bwyis.png" alt="CI/CD" height="50" />
 </div>
