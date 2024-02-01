@@ -26,6 +26,7 @@
   <h2 align="center"> My Skill Set </h2>  
 <table align="center">
 <tr>
+  
 <td align="top" width="50%">
 <h3 align="center">FrontEnd</h3>  
 <div align="center">
