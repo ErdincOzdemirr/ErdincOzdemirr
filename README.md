@@ -7,6 +7,7 @@
 💻    Java Backend Developer <br>
       <br>
 ⚡️     Software Engineer   <br>
+  
  <br>
 📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
  <br>
