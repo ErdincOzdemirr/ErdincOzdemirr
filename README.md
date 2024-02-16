@@ -55,21 +55,21 @@
 <td valign="top" width="50%">
 <h3 align="center">DataBase</h3>
 <div align="center">
-<img style="margin: 10px" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
 </div>
 </td>
 <td valign="top" width="50%">
 <h3 align="center">DevOps</h3>
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
+<img style="margin: 10px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
 </div>
 </td>
 </tr>
