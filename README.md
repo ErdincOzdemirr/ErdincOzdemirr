@@ -47,7 +47,6 @@
 <img style="margin: 10px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="MicroService" height="50" />
 <img style="margin: 10px" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" height="50" />
 <img style="margin: 10px" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" />
 </div>
 </td>
 </tr>
