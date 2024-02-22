@@ -7,8 +7,7 @@
 💻    Java Backend Developer <br>
       <br>
 ⚡️     Software Engineer   <br>
- <br>
-        
+ <br>     
 📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
  <br>
 📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
